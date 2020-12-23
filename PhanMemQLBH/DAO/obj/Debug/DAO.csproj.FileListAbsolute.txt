@@ -1,0 +1,9 @@
+D:\LTWin\PhanMemQLBH\DAO\bin\Debug\DAO.dll
+D:\LTWin\PhanMemQLBH\DAO\bin\Debug\DAO.pdb
+D:\LTWin\PhanMemQLBH\DAO\bin\Debug\DTO.dll
+D:\LTWin\PhanMemQLBH\DAO\bin\Debug\DTO.pdb
+D:\LTWin\PhanMemQLBH\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\LTWin\PhanMemQLBH\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LTWin\PhanMemQLBH\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LTWin\PhanMemQLBH\DAO\obj\Debug\DAO.dll
+D:\LTWin\PhanMemQLBH\DAO\obj\Debug\DAO.pdb
